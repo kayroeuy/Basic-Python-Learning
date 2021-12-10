@@ -1,0 +1,5 @@
+- len()
+- pop()
+- inert()
+- del
+- extend
