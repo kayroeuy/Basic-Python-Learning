@@ -1,9 +1,9 @@
 x = int(input('What you want to order this product? '))
-avaraible = 5
+av = 5
 i = 1
 
 while i <= x:
-    if i > avaraible:
+    if i > av:
         print("Product out of stock !")
         break
     print('Candy')
@@ -12,7 +12,7 @@ while i <= x:
 
 # Continue: keep execute statement
 
-for i in range(1,100):
+for i in range(1, 100):
     if i % 3 != 0:
         continue
     print(i)
@@ -24,4 +24,6 @@ for i in range(1, 10):
         pass
     else:
         print(i)
+
+
 
