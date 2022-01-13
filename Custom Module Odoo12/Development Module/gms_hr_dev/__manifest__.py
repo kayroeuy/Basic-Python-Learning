@@ -2,6 +2,7 @@
     'name': "GMS Module Custom",
     'summary': "GMS Module Custom Summary",
     'description': "GMS Description",
+    'category': 'GMS Category',
     'depends':[
         'base'
     ],
