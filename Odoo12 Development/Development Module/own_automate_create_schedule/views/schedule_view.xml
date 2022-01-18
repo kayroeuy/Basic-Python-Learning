@@ -35,7 +35,7 @@
         <!-- This Menu Item must have a parent and an action -->
         <menuitem id="schedule_demo_menu" name="Schedule Demo" action="schedule_demo_action" sequence="1"/>
 
-        
+
 
     </data>
 </odoo>
