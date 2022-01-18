@@ -1,1 +1,0 @@
-from . import edu_generate_class
